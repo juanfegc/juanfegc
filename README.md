@@ -1,24 +1,26 @@
+<h2>Hi,👋 I'm Juanfer</h2>
+<img align='right' src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="200">
 
 
-### Hi there 👋 I'm Juanfer
+### 
 > Full Stack Developer at [Bioprox](https://bioprox.es)
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: ["PHP", "Javascript", "Typescript", "HTML", "CSS", "Java", "Python", "Perl", "C++"],
+   pronouns: "He" | "Him",
+   code: ["PHP", "Javascript", "Typescript", "HTML", "CSS", "Java", "Python", "Perl"],
    technologies: {
       frontEnd: {
          js: ["React", "Jquery"],
-         css: ["Bootstrap", "Material Design"],
+         css: ["Bootstrap", "Material Design", "sass"],
          php-template-engine : ["twig", "smarty"]
       },
       backEnd: {
          js: ["Node", "Express"],
          php: ["Symfony"],
       },
-      databases: ["MongoDB", "mySQL", "mariaDB"],
-      ecommerce: ["Prestashop"]
+      databases: ["MongoDB", "MySQL", "mariaDB"],
+      e-commerce: ["Prestashop"]
       misc: ["IA", "Tensorflow", "arduino", "raspberri pi"]
    },
    currentOccupation: ["Bioprox labs"],
