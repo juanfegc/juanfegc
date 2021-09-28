@@ -3,7 +3,7 @@
 
 
 ### 
-> Full Stack Developer at [Bioprox](https://bioprox.es)
+> Full Stack Developer at [Bioprox Labs](https://bioprox.es)
 
 ```javascript
 const aboutMe = {
@@ -12,18 +12,17 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Jquery"],
-         css: ["Bootstrap", "Material Design", "sass"],
-         php-template-engine : ["twig", "smarty"]
+         css: ["Bootstrap", "Material Design", "Sass"],
+         php-template-engine : ["Twig", "Smarty"]
       },
       backEnd: {
          js: ["Node", "Express"],
-         php: ["Symfony"],
+         php: ["Symfony"]
       },
-      databases: ["MongoDB", "MySQL", "mariaDB"],
+      databases: ["MongoDB", "MySQL"],
       e-commerce: ["Prestashop"],
       misc: ["IA", "Linux", "Arduino"]
-   },
-   currentOccupation: ["Bioprox labs"],
+   }
 };
 ```
 
