@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @juanfegc
-- 👀 I’m interested in Javascript, Prestashop, React, Node, PHP, Typescript, Twig...
-- 
+
+
+### Hi there 👋 I'm Juanfer
+> Full Stack Developer at [Bioprox](https://bioprox.es)
+
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
