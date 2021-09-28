@@ -1,7 +1,23 @@
 - 👋 Hi, I’m @juanfegc
 - 👀 I’m interested in Javascript, Prestashop, React, Node, PHP, Typescript, Twig...
-- 🌱 I’m currently learning javascript tech...
-- 💞️ I’m looking to collaborate on ...
+
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, PHP, HTML, CSS, "Java", "Python", "Perl"],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Jquery"],
+         css: ["Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         php: ["Symfony"]
+      },
+      databases: ["MongoDB", "mySQL", "mariaDB"],
+      ecommerce: ["Prestashop"]
+   },
+   currentOccupation: ["Bioprox labs"],
+};
 
 
 <!---
