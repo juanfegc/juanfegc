@@ -8,7 +8,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "He" | "Him",
-   code: ["PHP", "Javascript", "Typescript", "HTML", "CSS", "Java", "Python", "Perl"],
+   code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl"],
    technologies: {
       frontEnd: {
          js: ["React", "Jquery"],
@@ -21,7 +21,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "MySQL", "mariaDB"],
       e-commerce: ["Prestashop"]
-      misc: ["IA", "Tensorflow", "arduino", "raspberri pi"]
+      misc: ["IA", "Linux", "Arduino"]
    },
    currentOccupation: ["Bioprox labs"],
 };
