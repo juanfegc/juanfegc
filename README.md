@@ -20,7 +20,7 @@ const aboutMe = {
          php: ["Symfony"],
       },
       databases: ["MongoDB", "MySQL", "mariaDB"],
-      e-commerce: ["Prestashop"]
+      e-commerce: ["Prestashop"],
       misc: ["IA", "Linux", "Arduino"]
    },
    currentOccupation: ["Bioprox labs"],
