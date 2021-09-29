@@ -3,7 +3,7 @@
 
 
 ### 
-> Full Stack Developer at [Bioprox Labs](https://bioprox.es)
+> Software Developer at [Bioprox Labs](https://bioprox.es)
 
 ```javascript
 const aboutMe = {
