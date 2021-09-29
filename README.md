@@ -11,7 +11,7 @@ const aboutMe = {
    code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl"],
    technologies: {
       frontEnd: {
-         js: ["React", "Jquery"],
+         js: ["JQuery", "React"],
          css: ["Bootstrap", "Material Design", "Sass"],
          php-template-engine : ["Twig", "Smarty"]
       },
