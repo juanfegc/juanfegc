@@ -19,7 +19,7 @@ const aboutMe = {
          js: ["Node", "Express"],
          php: ["Symfony"]
       },
-      databases: ["MongoDB", "MySQL"],
+      databases: ["MongoDB", "MySQL","PostgreSQL"],
       e-commerce: ["Prestashop"],
       misc: ["IA", "Linux", "Arduino"]
    }
