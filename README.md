@@ -19,10 +19,11 @@ const aboutMe = {
          js: ["Node", "Express"],
          php: ["Symfony"]
       },
-      databases: ["MongoDB", "MySQL","PostgreSQL"],
+      databases: ["MongoDB", "MySQL","PostgreSQL", "Redis"],
       e-commerce: ["Prestashop"],
-      misc: ["IA", "Linux", "Arduino"]
-   }
+   },
+   misc: ["IA", "Linux", "Arduino"],
+   design: ["Adobe Photoshop", "Adobe Ilustrator"]
 };
 ```
 
