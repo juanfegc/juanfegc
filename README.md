@@ -22,7 +22,7 @@ const aboutMe = {
       databases: ["MongoDB", "MySQL","PostgreSQL", "Redis"],
       e-commerce: ["Prestashop"],
    },
-   misc: ["IA", "Linux", "Arduino"],
+   misc: ["AI", "Linux", "Arduino"],
    design: ["Adobe Photoshop", "Adobe Ilustrator"]
 };
 ```
