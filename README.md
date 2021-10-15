@@ -1,4 +1,4 @@
-<h2>Hi,👋 I'm Juanfer</h2>
+<h2>Hi👋, I'm Juanfer</h2>
 <img align='right' src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="200">
 
 
