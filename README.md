@@ -8,19 +8,21 @@
 ```javascript
 const aboutMe = {
    pronouns: "He" | "Him",
-   code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl"],
+   code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl","C++"],
    technologies: {
       frontEnd: {
-         js: ["JQuery", "React"],
-         css: ["Bootstrap", "Material Design", "Sass"],
+         js: ["JQuery", "React", "Vanilla JS", "React Native"],
+         css: ["Bootstrap", "Material Design", "Sass", "styled components", "react-bootstrap", "Tailwind CSS"],
          php-template-engine : ["Twig", "Smarty"]
       },
       backEnd: {
          js: ["Node", "Express"],
          php: ["Symfony"]
       },
-      databases: ["MongoDB", "MySQL","PostgreSQL", "Redis"],
+      databases: ["MongoDB", "MySQL","PostgreSQL", "Redis", "mongoose"],
       e-commerce: ["Prestashop"],
+      testing: ["Playwright", "Jest"],
+      bundler: ["webpack", "parcel"]
    },
    misc: ["AI", "Linux", "Arduino"],
    design: ["Adobe Photoshop", "Adobe Ilustrator"]
