@@ -12,7 +12,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["JQuery", "React", "Vanilla JS", "React Native"],
-         css: ["Bootstrap", "Material Design", "Sass", "styled components", "react-bootstrap", "Tailwind CSS"],
+         css: ["Bootstrap", "Material Design", "Sass", "styled components", "Tailwind CSS"],
          php-template-engine : ["Twig", "Smarty"]
       },
       backEnd: {
