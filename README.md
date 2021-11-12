@@ -16,7 +16,7 @@ const aboutMe = {
          php-template-engine : ["Twig", "Smarty"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node JS", "Express"],
          php: ["Symfony"]
       },
       databases: ["MongoDB", "MySQL","PostgreSQL", "Redis", "mongoose"],
