@@ -8,7 +8,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "He" | "Him",
-   code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl","C++"],
+   code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl", "C++"],
    technologies: {
       frontEnd: {
          js: ["JQuery", "React", "Vanilla JS", "React Native"],
@@ -19,7 +19,7 @@ const aboutMe = {
          js: ["Node JS", "Express"],
          php: ["Symfony"]
       },
-      databases: ["MongoDB", "MySQL","PostgreSQL", "Redis", "mongoose"],
+      databases: ["MongoDB", "MySQL","PostgreSQL", "Redis", "GraphQL"],
       e-commerce: ["Prestashop"],
       testing: ["Playwright", "Jest"],
       bundler: ["webpack", "parcel"]
