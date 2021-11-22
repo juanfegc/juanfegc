@@ -11,18 +11,20 @@ const aboutMe = {
    code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl", "C++"],
    technologies: {
       frontEnd: {
-         js: ["JQuery", "React", "Vanilla JS", "React Native"],
-         css: ["Bootstrap", "Material Design", "Sass", "styled components", "Tailwind CSS"],
+         js: ["JQuery", "React JS", "Vanilla JS"],
+         css: ["Bootstrap", "Material Design", "Sass", "Styled components", "Tailwind CSS"],
          php-template-engine : ["Twig", "Smarty"]
       },
       backEnd: {
          js: ["Node JS", "Express"],
          php: ["Symfony"]
       },
-      databases: ["MongoDB", "MySQL","PostgreSQL", "Redis", "GraphQL"],
+      databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis", "GraphQL"],
       e-commerce: ["Prestashop"],
-      testing: ["Playwright", "Jest"],
-      bundler: ["webpack", "parcel"]
+      mobileApp: ["Android", "React Native"],
+      desktopApp: ["Electron JS"],
+      testing: ["Cypress", "Jest", "Playwright"],
+      bundler: ["Webpack", "Parcel"]
    },
    misc: ["AI", "Linux", "Arduino"],
    design: ["Adobe Photoshop", "Adobe Ilustrator"]
