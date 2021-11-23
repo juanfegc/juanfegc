@@ -8,10 +8,10 @@
 ```javascript
 const aboutMe = {
    pronouns: "He" | "Him",
-   code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl", "C++"],
+   code: ["Javascript", "HTML", "CSS", "PHP", "Java", "Python", "Perl", "C++"],
    technologies: {
       frontEnd: {
-         js: ["JQuery", "React JS", "Vanilla JS"],
+         js: ["React JS", "Vanilla JS", "JQuery"],
          css: ["Bootstrap", "Material Design", "Sass", "Styled components", "Tailwind CSS"],
          php-template-engine : ["Twig", "Smarty"]
       },
