@@ -8,10 +8,10 @@
 ```javascript
 const aboutMe = {
    pronouns: "He" | "Him",
-   code: ["Javascript", "HTML", "CSS", "PHP", "Java", "Python", "Perl", "C++", "Typescript"],
+   code: ["Javascript", "HTML", "CSS", "PHP", "Java", "Python", "Perl", "C++", "TypeScript"],
    technologies: {
       frontEnd: {
-         js: ["React", "Vanilla JS", "JQuery, "NEXT.js", "Vue"],
+         js: ["React", "Vanilla JS", "JQuery, "NEXT.js"],
          css: ["Bootstrap", "Material Design", "Sass", "Styled components", "Tailwind CSS"],
          php-template-engine : ["Twig", "Smarty"]
       },
@@ -19,11 +19,11 @@ const aboutMe = {
          js: ["Node JS", "Express"],
          php: ["Symfony"]
       },
-      databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis", "GraphQL"],
-      e-commerce: ["Prestashop"],
-      mobileApp: ["Android", "React Native"],
+      databases: ["MongoDB", "MySQL", "PostgreSQL", "GraphQL"],
+      e-commerce: ["Prestashop","Medusa JS", "Shopify/Hydrogen"], 
+      mobileApp: ["Android", "React Native", "iOS"],
       desktopApp: ["Electron JS"],
-      testing: ["Cypress", "Jest", "Playwright"],
+      testing: ["Cypress", "Jest", "PlayWright"],
       bundler: ["Webpack", "Parcel"]
    },
    misc: ["AI", "Linux", "Arduino"],
