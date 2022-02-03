@@ -20,7 +20,7 @@ const aboutMe = {
          php: ["Symfony"]
       },
       databases: ["MongoDB", "MySQL", "PostgreSQL", "GraphQL"],
-      e-commerce: ["Prestashop","Medusa JS", "Shopify/Hydrogen"], 
+      e-commerce: ["Prestashop", "Medusa JS", "Shopify/Hydrogen"], 
       mobileApp: ["Android", "React Native", "iOS"],
       desktopApp: ["Electron JS"],
       testing: ["Cypress", "Jest", "PlayWright"],
