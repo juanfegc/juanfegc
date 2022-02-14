@@ -24,7 +24,7 @@ const aboutMe = {
       mobileApp: ["Android", "React Native", "iOS"],
       desktopApp: ["Electron JS"],
       testing: ["Cypress", "Jest", "PlayWright"],
-      bundler: ["Webpack", "Parcel"]
+      bundler: ["Webpack", "Parcel", "Vite"]
    },
    misc: ["AI", "Linux", "Arduino"],
    design: ["Adobe Photoshop", "Adobe Ilustrator"]
