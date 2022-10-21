@@ -19,8 +19,8 @@ const aboutMe = {
          js: ["Node JS", "Express"],
          php: ["Symfony"]
       },
-      databases: ["MongoDB", "MySQL", "PostgreSQL", "GraphQL"],
-      e-commerce: ["Prestashop", "Medusa JS", "Shopify/Hydrogen"], 
+      databases: ["MySQL", "PostgreSQL", "MongoDB", "GraphQL"],
+      e-commerce: ["Prestashop"], 
       mobileApp: ["Android", "React Native", "iOS"],
       desktopApp: ["Electron JS"],
       testing: ["Cypress", "Jest", "PlayWright"],
