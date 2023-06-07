@@ -3,7 +3,7 @@
 
 
 ### 
-> Software Developer Engineer at [Bioprox Labs](https://bioprox.es)
+> Software Development Engineer at [Bioprox Labs](https://bioprox.es)
 
 ```javascript
 const aboutMe = {
