@@ -26,7 +26,7 @@ const aboutMe = {
       bundler: ["Webpack", "Parcel", "Vite"]
    },
    misc: ["AI", "Linux", "Arduino"],
-   design: ["Adobe Photoshop", "Adobe Ilustrator"]
+   design: ["Adobe Ilustrator", "Adobe Photoshop"]
 };
 ```
 
