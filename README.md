@@ -18,14 +18,14 @@ const aboutMe = {
          js: ["Node JS", "Express"],
          php: ["Symfony", "Laravel"]
       },
-      databases: ["MySQL", "PostgreSQL", "MariaDB", "SQLite"],
+      databases: ["MySQL", "PostgreSQL", "SQLite"],
       e-commerce: ["Prestashop"], 
       mobileApp: ["Android", "React Native", "iOS"],
       desktopApp: ["Electron JS"],
       testing: ["Cypress", "Jest", "PlayWright"],
       bundler: ["Webpack", "Parcel", "Vite"]
    },
-   misc: ["AI", "Linux", "Arduino"],
+   misc: ["Linux", "Arduino"],
    design: ["Adobe Ilustrator", "Adobe Photoshop"]
 };
 ```
