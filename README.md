@@ -7,7 +7,7 @@
 
 ```javascript
 const aboutMe = {
-   code: ["Javascript", "HTML", "CSS", "PHP", "Java", "Python", "Perl", "C++", "TypeScript"],
+   code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl", "C++", "TypeScript"],
    technologies: {
       frontEnd: {
          js: ["React", "Vanilla JS", "JQuery", "NEXT.js"],
@@ -16,9 +16,9 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node JS", "Express"],
-         php: ["Symfony"]
+         php: ["Symfony", "Laravel"]
       },
-      databases: ["MySQL", "PostgreSQL", "MongoDB", "GraphQL"],
+      databases: ["MySQL", "PostgreSQL", "MariaDB", "SQLite"],
       e-commerce: ["Prestashop"], 
       mobileApp: ["Android", "React Native", "iOS"],
       desktopApp: ["Electron JS"],
