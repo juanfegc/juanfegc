@@ -12,7 +12,8 @@ const aboutMe = {
       frontEnd: {
          js: ["React", "Vanilla JS", "JQuery", "NEXT.js", "TypeScript"],
          css: ["Bootstrap", "Material Design", "Sass", "Styled components", "Tailwind CSS"],
-         php-template-engine : ["Twig", "Smarty"]
+         php-template-engine : ["Twig", "Smarty"],
+         web: ["Astro"]
       },
       backEnd: {
          js: ["Node JS", "Express"],
