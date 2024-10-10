@@ -7,10 +7,10 @@
 
 ```javascript
 const aboutMe = {
-   code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl", "C++", "TypeScript"],
+   code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl", "C++"],
    technologies: {
       frontEnd: {
-         js: ["React", "Vanilla JS", "JQuery", "NEXT.js"],
+         js: ["React", "Vanilla JS", "JQuery", "NEXT.js", "TypeScript"],
          css: ["Bootstrap", "Material Design", "Sass", "Styled components", "Tailwind CSS"],
          php-template-engine : ["Twig", "Smarty"]
       },
@@ -18,7 +18,7 @@ const aboutMe = {
          js: ["Node JS", "Express"],
          php: ["Symfony", "Laravel"]
       },
-      databases: ["MySQL", "PostgreSQL", "SQLite"],
+      databases: ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
       e-commerce: ["Prestashop"], 
       mobileApp: ["Android", "React Native", "iOS"],
       desktopApp: ["Electron JS"],
