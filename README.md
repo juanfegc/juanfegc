@@ -7,10 +7,10 @@
 
 ```javascript
 const aboutMe = {
-   code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Python", "Perl", "C++"],
+   code: ["PHP", "Javascript", "HTML", "CSS", "Java", "Perl", "C++"],
    technologies: {
       frontEnd: {
-         js: ["React", "Vanilla JS", "JQuery", "NEXT.js", "TypeScript"],
+         js: ["React", "Vanilla JS", "JQuery", "TypeScript"],
          css: ["Bootstrap", "Material Design", "Sass", "Styled components", "Tailwind CSS"],
          php-template-engine : ["Twig", "Smarty"],
          web: ["Astro"]
