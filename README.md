@@ -26,7 +26,7 @@ const aboutMe = {
       testing: ["Cypress", "Jest", "PlayWright"],
       bundler: ["Webpack", "Parcel", "Vite"]
    },
-   misc: ["Linux", "Arduino"],
+   misc: ["Linux", "Arduino", "Raspberry pi", "Home Assistant"],
    design: ["Adobe Ilustrator", "Adobe Photoshop"]
 };
 ```
